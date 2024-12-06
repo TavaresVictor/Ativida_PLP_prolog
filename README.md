@@ -1,5 +1,10 @@
 # Ativida_PLP_prolog
 
+Evelim Lopes Lima - 22354504
+Felipe Amaral de Medeiros - 22353218
+João Victor Teixeira Tavares - 22353220
+Luis Thiago Silva Rabello - 29659108
+Mággila Rayanne da Silva Holanda - 22354505
 
 README - Sistema Especialista de Doação de Sangue
 Este projeto demonstra uma interface gráfica simples construída em Python (usando PyQt5) que se comunica com um back-end em Prolog usando PySWIP, para consultar compatibilidade de doação de sangue entre indivíduos, bem como informações sobre tipos sanguíneos e fator Rh.
